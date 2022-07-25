@@ -1,5 +1,5 @@
 # youtube-clickbait-plugin
-The extension displays every video with a rating provided by our api(created at https://github.com/abhishek-jha-24/Youtube-Clickbait-Analysis). The api uses A sentiment analysis based approach on YouTube comments to detect the fairness of the video and to label it as click bait or non-click bait and also provides a video comment rating.
+The extension displays every video with a rating provided by our api(created at https://github.com/abhishek-jha-24/youtube-clickbait-plugin/tree/main/anan). The api uses A sentiment analysis based approach on YouTube comments to detect the fairness of the video and to label it as click bait or non-click bait and also provides a video comment rating.
 
 Advantages:
 
