@@ -3,6 +3,7 @@ The extension displays every video with a rating provided by our api(created at 
 
 Advantages:
 
-Users can get the rating without clicking on video which saves their time 1.1 as they no more have to see the annoying double adds at the very start without even knowing the fairness of that video.
-Views would be of more priorty as irrelevant views would be less.
-less chance of users getting scammed as they will be alerted if the video was found to be a click-bait one.
+Users can get the rating without clicking on video which saves their time 
++ as they no more have to see the annoying double adds at the very start without even knowing the fairness of that video.
++ Views would be of more priorty as irrelevant views would be less.
++ less chance of users getting scammed as they will be alerted if the video was found to be a click-bait one.
